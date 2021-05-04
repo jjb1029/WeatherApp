@@ -27,5 +27,21 @@ body {
 }
 
 button {
-    margin-left: .5em;
+    margin: .5em;
+    border-radius: 50%;
+    border: none;
+    height: 46px;
+    width: 46px;
+    outline: none;
+}
+
+input.search-bar {
+    border: none;
+    outline: none;
+    padding: .5em 1em;
+    border-radius: 24px;
+    background: #7c7c7c2b;
+    color: white;
+    font-family: inherit;
+    font-size: 120%;
 }
