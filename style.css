@@ -59,12 +59,13 @@ input.search-bar {
 
 h1.temp {
     margin: 0;
-    margin-bottom: .4em;
+    margin-bottom: .1em;
 }
 
 .flex {
     display: flex;
     align-items: center;
+    margin-bottom: .2em;
 }
 
 .description {
